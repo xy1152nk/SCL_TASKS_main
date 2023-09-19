@@ -26,8 +26,6 @@ Cost Savings: SCL Corporation will benefit from cost reductions associated with 
 
 Enhanced Employee Satisfaction: Implementing the Canteen Ordering System will demonstrate the company's commitment to employee convenience, boosting overall employee satisfaction and morale.
 
-**As the Business Analyst, my role would involve gathering detailed requirements and specifications to develop an efficient and user-friendly Canteen Ordering System that aligns with these advantages and meets the specific needs of SCL Corporation. **
-
 #Environments:
 We have chosen Python as the programming language for developing and maintaining the system. Python offers flexibility and ease of development, making it an ideal choice for adapting to changing requirements. With proper design and development, the system should require minimal ongoing maintenance.
 
