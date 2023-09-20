@@ -5,7 +5,7 @@ SCL Corporation is a global technology company with its headquarters located in 
 
 At SCL Corporation, employees often need to collaborate across different teams and attend numerous meetings throughout the day. As a result, they frequently visit the company's multiple on-campus cafeterias to grab a quick meal or coffee to keep up with their busy schedules.
 
-Management has observed that employees spend a significant portion of their breaks waiting in line at the cafeterias, which can be time-consuming and frustrating. On average, employees spend around 20-30 minutes in line to order their food, leading to shorter actual break times.
+Management has observed that employees spend a significant portion of their breaks waiting in line at the cafeterias, which can be time-consuming and frustrating. On average, employees spend around 35-45 minutes in line to order their food, leading to shorter actual break times.
 
 Furthermore, the cafeterias often run out of popular food items or specialty coffees, leaving employees disappointed and searching for alternative options. This can result in a less-than-optimal dining experience and wasted time as employees search for other dining options off-campus.
 
